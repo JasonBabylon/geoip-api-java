@@ -68,3 +68,6 @@ LookupService cl = new LookupService(dbfile,
 
 As of version 1.1.4 this API is thread safe.
 
+## 2017-01-09 Added ##
+QQWry, IPIP.NET 
+
